@@ -19,7 +19,7 @@
 
 -----
 
-### 🧠 About Me
+### About Me ###
 
 Hello, I'm Emre Mert Karaca and I am currently working on a Manufacturing Execution System (MES) project.
 
