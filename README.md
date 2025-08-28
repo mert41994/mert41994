@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Emre Mert KARACA</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mert41994?style=social" alt="GitHub followers">
