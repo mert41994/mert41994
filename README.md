@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/mert41994?style=social" alt="GitHub followers">
   <img src="https://img.shields.io/badge/Code-Kotlin-blue?logo=kotlin">
+  <img src="https://img.shields.io/badge/Code-Python-green?logo=python">
   <img src="https://img.shields.io/badge/Platform-Android-green?logo=android">
   <img src="https://img.shields.io/badge/Cloud-Firebase-orange?logo=firebase">
 </p>
