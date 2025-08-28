@@ -9,6 +9,9 @@
 </p>
 
 ---
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mert41994&layout=compact&theme=tokyonight)
 
 ### About
 
