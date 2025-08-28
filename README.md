@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert41994&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
----
+-----
 
 ### 🧠 About Me
 
@@ -27,5 +27,7 @@ My main focus is on industrial automation protocols and integrating them into IT
 In my spare time, I enjoy developing personal and hobby projects using Python, Kotlin and Flutter.
 Due to the nature of my job, some of these projects are private or confidential.
 However, if you have any questions related to these topics, please feel free to reach out — I’ll do my best to help.
----
+
+
+-----
 
