@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Code-Python-bluegray?logo=python">
   <img src="https://img.shields.io/badge/Platform-Android-green?logo=android">
   <img src="https://img.shields.io/badge/Cloud-Firebase-orange?logo=firebase">
+  <img src="https://img.shields.io/badge/OPC%20UA-1E93AB">
 </p>
 
 ---
