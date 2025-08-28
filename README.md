@@ -21,13 +21,12 @@
 
 ### 🧠 About Me
 
-Hello, I'm Emre Mert Karaca — currently working on a MES (Manufacturing Execution System) project.
+Hello, I'm Emre Mert Karaca and I am currently working on a Manufacturing Execution System (MES) project.
 
-My main focus is on industrial automation protocols and their integration into IT systems.  
-Outside of work, I enjoy developing personal and hobby projects using Python, Kotlin, and Flutter.  
-Due to the nature of my job, some of my projects are private or confidential.
+My main focus is on industrial automation protocols and integrating them into IT systems.
+In my spare time, I enjoy developing personal and hobby projects using Python, Kotlin and Flutter.
+Due to the nature of my job, some of these projects are private or confidential.
 
-If you have any questions related to these topics, feel free to reach out — I’ll do my best to help.
-
+However, if you have any questions related to these topics, please feel free to reach out — I’ll do my best to help.
 ---
 
